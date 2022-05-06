@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T01:28:59.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4P6z4cbG6oxkwJxgTC4e" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T01:42:09.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bN3aKVnGYgcg8vaUJU5W" version="14.9.8" type="github">
   <diagram id="BqmijlwSYzgdbRCE5Ut3" name="Page-1">
-    <mxGraphModel dx="996" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-10" value="跌倒检测模块" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="600" y="540" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="EFFhlwVtZ6RXwLO8-rPQ-10" parent="1">
+        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="EFFhlwVtZ6RXwLO8-rPQ-10" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="510" as="sourcePoint" />
             <Array as="points">
@@ -21,10 +21,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-24" value="语音播报模块" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-24" value="GSM通信模块" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="470" y="540" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="EFFhlwVtZ6RXwLO8-rPQ-24" parent="1" source="ut-0j-8NUJJQiy_k8EIM-6">
+        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="EFFhlwVtZ6RXwLO8-rPQ-24" parent="1" source="ut-0j-8NUJJQiy_k8EIM-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="520" as="sourcePoint" />
           </mxGeometry>
@@ -32,7 +32,7 @@
         <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-26" value="超声波测距模块" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="340" y="540" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="EFFhlwVtZ6RXwLO8-rPQ-26" parent="1">
+        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="EFFhlwVtZ6RXwLO8-rPQ-26" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="510" as="sourcePoint" />
             <Array as="points">
@@ -44,6 +44,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="440" as="sourcePoint" />
             <mxPoint x="560" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-32" value="语音播报模块" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="620" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="EFFhlwVtZ6RXwLO8-rPQ-32" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="600" y="450" />
+              <mxPoint x="610" y="460" />
+              <mxPoint x="630" y="450" />
+              <mxPoint x="630" y="380" />
+              <mxPoint x="690" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-35" value="显示模块" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EFFhlwVtZ6RXwLO8-rPQ-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ut-0j-8NUJJQiy_k8EIM-6" source="EFFhlwVtZ6RXwLO8-rPQ-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="449.83" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="430" y="450" />
+              <mxPoint x="430" y="449.83" />
+              <mxPoint x="430" y="379.83" />
+              <mxPoint x="490" y="389.83" />
+            </Array>
+            <mxPoint x="450" y="449.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
