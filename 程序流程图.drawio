@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T11:45:57.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="36qx48ryVRdwow1eolCD" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T11:52:30.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="pr8XV4N2Dd1-ZgOCFfHk" version="18.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="687" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -132,7 +132,10 @@
           <mxGeometry x="-0.6098" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="340" y="420" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="330" y="440" />
+              <mxPoint x="330" y="641" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ogAV-2YasjObulV18OoU-4" value="&lt;font face=&quot;宋体&quot;&gt;GSM模块&lt;br&gt;判断是否收到&lt;br&gt;家人的查询&lt;br&gt;短信&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
