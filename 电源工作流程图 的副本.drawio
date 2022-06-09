@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T08:11:45.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="x8tofB0wqEZ4a9TEPbPL" version="18.1.1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VjLctowFP0aLduxLPxaWmCStCRthzZ0ulOwYrsIRGTx6tdXsmVsNwwNTRmY0g0jHV1foXvPORYA1J2urwSZp7c8pgzYVrwGqAdsOwhc9amBTQm40ACJyOISgjUwzH5QA1oGXWQxzVuBknMms3kbHPPZjI5lCyNC8FU77JGz9q5zktBnwHBM2HN0lMUyLVHf9mr8mmZJWu0M3aBcmZIq2JwkT0nMVw0IRQB1BeeyHE3XXcp07aq6jG42IzaYuFfvPuVP5At+//nu/k2ZrH/II9sjCDqTf5x68G00svGdPUxCx2Nfr8fBQ2wesZaELUy9zFnlpiogjVU9zZQLmfKEzwiLahQLvpjFVG9jqVkdM+B8rkCowO9Uyo0hB1lIrqBUTplZpbM41K1W0wfGx5MS6meMmZwvLIApVM4XYkz3xCHDQyISui+f4YiuQINMprxXlE+pFBsVICgjMlu2GUcMcZNtXN0cNTD9OYAGaEevXKa+P37kqixKG8Sc2n1aaFJiEDkgjICvBh2AeyBAjTXbTcqYAAQd4Nsg8vQAOyByAYYgtBqIA3ydB7317qtN1RnKfU2eX3lTs0K3eJVmkg7n5TdcKadpM0BnMvSAqsI4YSTPTfNzKfhkK14dvVXi4dxYUiHpem83q1XXiMMYn2+mq9pFYGUNacNBOtbr+79Tq3BH//99rXov1CqEpxLrzmbZ/5u1L599Vs7qHcVZbz46yHIL7+wB39uaKIh8PcXIuRgvRfaZeWnnIuVZeWRTnzvLg85KnnDXm+/1+gxvhxBCb9D7UNyBAi3T+qKDLkacHf904tz7dvjrN13V3BAE/cKAkQ5TN93QByHUS4F6qjBp7IHQqfJ0n1+CL9e2t1fik/n2sX4DFe/owNHN9oPiZe3q3uPQDJQmNDMs4Pd1DFbswcUAF3z6PWku2VCOSRs1rf+BKdYaf2Oh6Cc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-09T13:47:46.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="hBY53nJgrlxTl_3a5bZH" version="19.0.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="569" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="LZWW2BN2SgA57lXHc9bd-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=classic;endFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="锂电池电压3.7V" style="rounded=0;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZWW2BN2SgA57lXHc9bd-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=classic;endFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZWW2BN2SgA57lXHc9bd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=classic;endFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="IP5306升压至5V" style="rounded=0;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZWW2BN2SgA57lXHc9bd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=classic;endFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="LZWW2BN2SgA57lXHc9bd-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="AMS1117LDO降压3.3V" style="rounded=0;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="功能模块工作电压5V" style="rounded=0;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LZWW2BN2SgA57lXHc9bd-3" value="单片机最小系统&#xa;工作电压3.3V" style="rounded=0;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
